@@ -3,7 +3,6 @@
 ### **Comment exécuter le projet**
 
 **Naviguez vers le répertoire de votre projet**
-```markdown
 ```bash
 cd path/to/your/project
 ```
